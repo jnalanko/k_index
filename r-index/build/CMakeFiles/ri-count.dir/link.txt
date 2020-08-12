@@ -1,0 +1,1 @@
+/usr/bin/g++-8  --std=c++11 -g -ggdb -Ofast -fstrict-aliasing -DNDEBUG -march=native  -rdynamic CMakeFiles/ri-count.dir/ri-count.cpp.o  -o ri-count  -L/home/niklas/lib -Wl,-rpath,/home/niklas/lib -lsdsl -ldivsufsort -ldivsufsort64 

@@ -1,0 +1,5 @@
+/home/niklas/code/k_index_github/r-index/build/CMakeFiles/edit_cache.dir
+/home/niklas/code/k_index_github/r-index/build/CMakeFiles/rebuild_cache.dir
+/home/niklas/code/k_index_github/r-index/build/CMakeFiles/ri-count.dir
+/home/niklas/code/k_index_github/r-index/build/CMakeFiles/ri-build.dir
+/home/niklas/code/k_index_github/r-index/build/CMakeFiles/ri-locate.dir

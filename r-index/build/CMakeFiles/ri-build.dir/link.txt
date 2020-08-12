@@ -1,0 +1,1 @@
+/usr/bin/g++-8  --std=c++11 -g -ggdb -Ofast -fstrict-aliasing -DNDEBUG -march=native  -rdynamic CMakeFiles/ri-build.dir/ri-build.cpp.o  -o ri-build  -L/home/niklas/lib -Wl,-rpath,/home/niklas/lib -lsdsl -ldivsufsort -ldivsufsort64 
