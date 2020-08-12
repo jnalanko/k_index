@@ -3,7 +3,7 @@ K-mer pseudoalignment using the r-index. Work in progress. Tested on Ubuntu 18.0
 Requirements: 
 
 * CMake
-* C++ compiler recent enough to have support for the <filesystem> header (e.g. g++-8).
+* C++ compiler recent enough to have support for the `<filesystem>` header (e.g. g++-8).
 * The sdsl-library installed at ~/lib and ~/include.
 
 # Compiling
